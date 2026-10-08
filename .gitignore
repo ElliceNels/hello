@@ -24,6 +24,7 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+*.exe
 MANIFEST
 
 # PyInstaller
@@ -215,6 +216,7 @@ tempCodeRunnerFile.py
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
 
 # Streamlit
 .streamlit/secrets.toml
